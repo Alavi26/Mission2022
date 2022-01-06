@@ -100,3 +100,12 @@ body{
     background-size: 18%;
     background-position: 100%;
 }
+.last-color{
+    color: cyan;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 100px;
+}
