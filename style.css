@@ -34,13 +34,13 @@ body{
     color: white;
     font-weight: 700;
     border-radius: 10px;
-    margin-left: 60px;
+    margin-left: 0px;
 }
 #text1{
     text-align: center;
 }
 .box{
-    align:center;
+    
     width: 50%;
     margin-left: 5%;
     margin-right: 5%;
@@ -56,11 +56,24 @@ body{
     background-color: lightgray;
 }
 #box2{
-    background-color: lightcyan;
+    background-color: lightsteelblue;
+}.third-part{
+    display: flex;
 }
 #box3{
     background-color: lightyellow;
 }
 .mm2022{
     text-align: center;
+}
+.third-part{
+    display: flex;
+}
+.size-50{
+    width: 50%;
+}
+
+.coding-image{
+    width: 42%;
+    padding-left: 35%;
 }
