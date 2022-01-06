@@ -77,3 +77,12 @@ body{
     width: 42%;
     padding-left: 35%;
 }
+.third-text{
+    padding-right: 1%;
+}
+.side-banner-one{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat:no-repeat;
+    background-size: 18%;
+    background-position: 10%;
+}
