@@ -61,7 +61,7 @@ body{
     display: flex;
 }
 #box3{
-    background-color: lightyellow;
+    background-color: lightseagreen;
 }
 .mm2022{
     text-align: center;
@@ -97,8 +97,8 @@ body{
 .fourth-banner{
     background-image: url(images/shapes/shape-1.png);
     background-repeat:no-repeat;
-    background-size: 18%;
-    background-position: 100%;
+    background-size: 17%;
+    background-position: 100% 200%;
 }
 .last-color{
     color: cyan;
@@ -108,4 +108,21 @@ footer {
     background-color: black;
     color: white;
     height: 100px;
+}
+.line{
+    margin-bottom: 100px;
+}
+.top-line{
+    margin-top: 100px;
+}
+.LeftText{
+    justify-self: unset;
+    padding-left: 30%;
+}
+.RightText{
+    justify-self;
+    padding-left: 70%;
+}
+.half-width-new{
+    width: 50%;
 }
