@@ -9,7 +9,14 @@ body{
     padding-left: 10%;
 }
 .half-width2{
-    width: 50%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.person1{
+    width: 40%; 
+}
+.half-width2 img{
+    width: 60%;
 }
 #focus{
     padding-left: 10px;
@@ -30,5 +37,30 @@ body{
     margin-left: 60px;
 }
 #text1{
+    text-align: center;
+}
+.box{
+    align:center;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 30px soild;
+    
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 50px;
+}
+#box1{
+    background-color: lightgray;
+}
+#box2{
+    background-color: lightcyan;
+}
+#box3{
+    background-color: lightyellow;
+}
+.mm2022{
     text-align: center;
 }
